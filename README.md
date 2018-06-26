@@ -2,7 +2,7 @@
 
 This plugin is the default GitBook plugin used to highlight code blocks.
 
-You can remove it using:
+Add to your book.json :
 
 ```
 {
